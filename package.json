@@ -1,0 +1,23 @@
+{
+	"name": "levelfy",
+	"version": "1.0.1",
+	"description": "An extension that extend the Console's capabilities such as log levels...",
+	"main": "levelfy.js",
+	"scripts": {
+		"test": "node test.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/JCloudYu/levelfy.git"
+	},
+	"keywords": [
+		"Console",
+		"LogLevel"
+	],
+	"author": "JCloudYu",
+	"license": "WTFPL",
+	"bugs": {
+		"url": "https://github.com/JCloudYu/levelfy/issues"
+	},
+	"homepage": "https://github.com/JCloudYu/levelfy#readme"
+}
