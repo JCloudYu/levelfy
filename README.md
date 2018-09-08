@@ -9,7 +9,7 @@ npm install levelfy
 
 ### Browser ###
 ```html
-<script src="https://rawgit.com/JCloudYu/levelfy/master/js/levelfy.js"></script>
+<script src="https://rawgit.com/JCloudYu/levelfy/master/levelfy.js"></script>
 ```
 
 
